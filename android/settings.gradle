@@ -1,0 +1,3 @@
+rootProject.name = 'enginedigital'
+
+include ':app'
